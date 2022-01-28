@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pig052656)](https://solved.ac/pig052656)
 
+## Skill Stack
+### WEB
+https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markyul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
